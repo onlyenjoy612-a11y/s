@@ -8,8 +8,8 @@ from telegram.ext import MessageHandler, filters
 import asyncio
 import subprocess
 
-TOKEN = "7026678876:AAFfUEgmdEJzUBg30JSUauBg2kNayUBcGu0"
-GROUP_ID = -1002464533692
+TOKEN = "8090649604:AAGS4TlA_awuE7XnZhctM2MedPvQdAJOVZg"
+GROUP_ID = -1002339422035
 ADMIN_IDS = ["5056902784", "757915155"]
 ATTACK_COST = 5
 MAX_ATTACK_DURATION = 240
